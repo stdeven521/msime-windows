@@ -12,7 +12,14 @@
 
 已测试：Windows 11、Steam 版《太空工程师 1》01_210_014、DX11 窗口模式。测试者确认中文候选及上屏、英文和普通空格、选字与编辑按键、关闭聊天后的 WASD/快捷键、Alt+Tab 及记事本中文正常。其他显示模式未单独验证。
 
-**上传状态：本页面说明已发布；r7 修改源码与测试包尚未上传。当前默认分支仍以原始仓库代码为主，请勿将下方原版下载链接当作 r7 下载。**
+## 下载本修改版 r7
+
+**已上传并发布：[r7 发布页（源码、DLL 测试包、补丁、SHA256）](https://github.com/stdeven521/msime-windows/releases/tag/v0.11.1-se-r7)。**
+
+- [下载 r7 x64 DLL 测试包](https://github.com/stdeven521/msime-windows/releases/download/v0.11.1-se-r7/Metasequoia-SpaceEngineers-r7-x64.zip)（需先安装官方 v0.11.1；含安装和回滚脚本）
+- [下载完整修改源码（含子模块）](https://github.com/stdeven521/msime-windows/releases/download/v0.11.1-se-r7/Metasequoia-SpaceEngineers-r7-source.zip)
+
+当前通过 Release 附件发布 r7。Git 推送授权尚未完成，默认 develop 代码目录仍以原始代码为主；请使用上面的修改源码包，**不要把 GitHub 自动生成的 Source code 压缩包或下方原版下载链接当作 r7**。
 
 ---
 
