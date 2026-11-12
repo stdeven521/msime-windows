@@ -1,4 +1,9 @@
-# 水杉输入法 · 游戏中文输入兼容修改版
+# 小马哥水杉输入法 · 游戏中文输入兼容修改版
+
+**推荐：[下载完整整合 EXE v2](https://github.com/stdeven521/msime-windows/releases/download/v0.11.1-se-r7/Metasequoia-SpaceEngineers-r7-Full-Setup-v2-unsigned.exe)**
+
+内含官方 v0.11.1 安装器和 r7 修复 DLL。退出游戏后运行并确认 UAC，完成内置官方向导后自动应用修复，无需另行下载前置包或手动运行补丁。外层 EXE 和修改 DLL 未签名；新包装器已通过构建、7 项安装判断测试和解包校验，尚未在干净 Windows 系统完成端到端安装验收。源码、校验值和详细说明见 [r7 发布页](https://github.com/stdeven521/msime-windows/releases/tag/v0.11.1-se-r7)。
+
 
 > **本修改版是为《太空工程师》（Space Engineers）及类似存在中文输入兼容问题的游戏而修改的水杉输入法。**
 >
